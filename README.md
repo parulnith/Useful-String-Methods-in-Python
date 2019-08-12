@@ -4,7 +4,7 @@
 
 
 A string is a sequence of characters. The built-in string class in Python represents strings based upon the Unicode international character set. Strings implement the common sequence of operations available in Python along with some of the additional methods which are exclusive to them. The figure below shows all of these available methods :
-
+![Alt Text](https://cdn-images-1.medium.com/max/800/1*b0qeZYW-2MeEbG-lSbDogA.gif)
 
 
 
