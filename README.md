@@ -19,7 +19,7 @@ In this article, we shall learn about some of the more frequently used ones. Som
 
 
 ## Blog
-[Useful String Methods in Python](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9?source=friends_link&sk=4b2304e83b424765432ee103b17abb3a)
+[Useful String Methods in Python](https://towardsdatascience.com/useful-string-methods-in-python-5047ea4d3f90)
 
 
 ## References
