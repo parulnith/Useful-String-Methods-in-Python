@@ -1,4 +1,4 @@
-# An Overview of Python's Datatable package
+# Useful String Methods in Python
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parulnith/Useful-String-Methods-in-Python/master)
 
 
